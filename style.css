@@ -1,0 +1,15 @@
+body{
+    width: 180px;
+}
+p, .making-three{
+    color: blue;
+}
+#king1, #conceited{
+    border: 1px solid green;
+}
+.business{
+    background-color: yellow;
+}
+.making-one, .making-three, .making-two{
+    font-weight: bold;
+}
